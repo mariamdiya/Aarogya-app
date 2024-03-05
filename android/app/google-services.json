@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971108848666",
+    "project_id": "test-rymn2u",
+    "storage_bucket": "test-rymn2u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971108848666:android:d695b64e0b0ad534bd6da3",
+        "android_client_info": {
+          "package_name": "com.mycompany.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwQaHLZllsIN9ElFG6lcOeG4ynvdbr0sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
